@@ -1,0 +1,22 @@
+{
+  "name": "node_prctice",
+  "version": "1.0.0",
+  "description": "Test project",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zalimt/node_practice.git"
+  },
+  "author": "Zalim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zalimt/node_practice/issues"
+  },
+  "homepage": "https://github.com/zalimt/node_practice#readme"
+}
